@@ -31,7 +31,7 @@ import common.pyside_util as pyside_util
 TOOLS_PATH = os.path.dirname( __file__ )
 
 WINDOW_TITLE = 'Save Preset'
-WINDOW_VERSION = 1.0
+WINDOW_VERSION = 1.5
 WINDOW_NAME = 'save_preset'
 
 UI_FILE_PATH = os.path.join( TOOLS_PATH, 'save_preset.ui')
